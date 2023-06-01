@@ -1,0 +1,15 @@
+node_modules
+.history
+public
+build
+out
+dist
+storybook
+svg
+
+index.js
+app.config.js
+babel.config.js
+.eslintrc.js
+vite.config.js
+scripts
